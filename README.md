@@ -1,4 +1,4 @@
-# Image-similarity-comparison-Algorithm
+# Image-similarity-comparison-Algorithm/图片相似度比较算法
 Compare the similarity of the two images/比较两个图片的相似度
 
 
